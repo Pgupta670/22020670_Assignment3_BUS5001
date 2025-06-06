@@ -22,6 +22,10 @@ Prompt: Create 5 revision flashcards from Week 2 on data preparation and dimensi
 
 
 
+
+
+
+
 2. Summarization in mind map format
 Prompt: Relationships between the main topics in a mind map format.
 
